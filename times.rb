@@ -1,5 +1,5 @@
 def using_times(phrase)
-  7.times do {'Wingardium Leviosa'} 
+  7.times {'Wingardium Leviosa'} 
 	end
 end
 
