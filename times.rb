@@ -1,10 +1,9 @@
 def using_times(phrase)
   7.times do
 	  puts 'Wingardium Leviosa' 
-	  break
 	end
 end
-
+using_times('Wingardium Leviosa')
 
 
 
