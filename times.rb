@@ -4,7 +4,7 @@ def using_times(phrase)
 	end
 end
 
-using_times('Wingardium Leviosa')
+
 
 
 
